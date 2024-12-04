@@ -56,7 +56,7 @@ Project 3: Name - Include relevant notes on performance, scalability, or user im
 
 📫 Connect with Me
 
-LinkedIn: [in/ahmad-hijazi-b97427159](https://www.linkedin.com/in/ahmad-hijazi-b97427159/))
+LinkedIn: [in/ahmad-hijazi-b97427159](https://www.linkedin.com/in/ahmad-hijazi-b97427159/)
 
 X: [@abouhmed96](https://x.com/abouhmed96)
 
