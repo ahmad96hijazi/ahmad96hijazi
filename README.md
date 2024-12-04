@@ -55,6 +55,9 @@ Project 3: Name - Include relevant notes on performance, scalability, or user im
 📈 GitHub Stats
 
 📫 Connect with Me
-LinkedIn: linkedin.com/in/ahmad-hijazi-b97427159
-X: @abouhmed96
-Email: ahmad96.hijazi@gmail.com
+
+LinkedIn: [in/ahmad-hijazi-b97427159](https://www.linkedin.com/in/ahmad-hijazi-b97427159/))
+
+X: [@abouhmed96](https://x.com/abouhmed96)
+
+Email: [ahmad96.hijazi@gmail.com](mailto:ahmad96.hijazi@gmail.com)
