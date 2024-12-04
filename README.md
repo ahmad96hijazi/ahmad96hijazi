@@ -41,6 +41,7 @@ Cloud & DevOps: AWS, Google Cloud, Docker
 Tools & Frameworks
 
 Frameworks: Express, Laravel
+
 Cloud: EC2, S3, Firebase
 CI/CD: GitHub Actions
 Version Control: Git, GitHub, GitLab
