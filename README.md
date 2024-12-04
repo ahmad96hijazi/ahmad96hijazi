@@ -33,17 +33,16 @@ Welcome to my GitHub! I’m a software engineer passionate about building effici
 
 Languages
 
-Backend: JavaScript (Node.js), Python, Java, Kotlin, php
-Mobile: Kotlin, Java, Flutter
-Database: PostgreSQL, MySQL, MongoDB, Redis
+Backend: JavaScript (Node.js), Python, Java, Kotlin, php\
+Mobile: Kotlin, Java, Flutter\
+Database: PostgreSQL, MySQL, MongoDB, Redis\
 Cloud & DevOps: AWS, Google Cloud, Docker
 
 Tools & Frameworks
 
-Frameworks: Express, Laravel
-
-Cloud: EC2, S3, Firebase
-CI/CD: GitHub Actions
+Frameworks: Express, Laravel\
+Cloud: EC2, S3, Firebase\
+CI/CD: GitHub Actions\
 Version Control: Git, GitHub, GitLab
 
 <!--
@@ -57,8 +56,6 @@ Project 3: Name - Include relevant notes on performance, scalability, or user im
 
 📫 Connect with Me
 
-LinkedIn: [in/ahmad-hijazi-b97427159](https://www.linkedin.com/in/ahmad-hijazi-b97427159/)
-
-X: [@abouhmed96](https://x.com/abouhmed96)
-
+LinkedIn: [in/ahmad-hijazi-b97427159](https://www.linkedin.com/in/ahmad-hijazi-b97427159/)\
+X: [@abouhmed96](https://x.com/abouhmed96)\
 Email: [ahmad96.hijazi@gmail.com](mailto:ahmad96.hijazi@gmail.com)
